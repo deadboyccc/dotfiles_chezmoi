@@ -1,0 +1,14 @@
+alsamixer
+mocp
+ranger
+timeset
+install_pulse
+rm_pulse
+system-settings
+xdg-settings
+gtk-query-settings
+i3exit
+alacritty
+kitty
+hexdump
+procps
