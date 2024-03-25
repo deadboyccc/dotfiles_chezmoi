@@ -50,3 +50,6 @@ ex ()
 #adding alias for chezmoi
 
 alias configedit='chezmoi edit --watch'
+
+
+#adding the alias of bare git repo to back up dot files later 
