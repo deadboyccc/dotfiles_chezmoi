@@ -15,7 +15,7 @@ fi
 
 export EDITOR='nvim'
 #exporting main editor
-
+#echo $EDITOR
 
 #
 # # ex - archive extractor
