@@ -44,3 +44,9 @@ ex ()
 
 
 #added from bashrc
+
+
+
+#adding alias for chezmoi
+
+alias configedit='chezmoi edit --watch'
