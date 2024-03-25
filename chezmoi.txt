@@ -1,0 +1,27 @@
+init > add  files > push the files to repo
+
+[start of back up]
+
+
+
+
+
+edit config files normally (nvim config) the local versions
+chezmoi diff (will show u what u changed)
+chezmoi re-add (will add those changes to the git repo)
+git push to back up the current changes
+[the most intuitive way]
+
+
+OR
+
+edit config using chezmoi edit --watch
+watch=save the edits to repo once u saave
+then git push to save the current changes
+
+[thoguhts]
+
+chezmoi managed to see what file u manage thro edit(by adding them prior)
+chezmoi edit --watch (while editor is nvim) file name into alias
+alias configedit='chezmoi edit --watch'
+
