@@ -53,4 +53,7 @@ alias configedit='chezmoi edit --watch'
 
 alias cat='bat'
 alias ls='exa'
+alias grep='rg'
 #adding the alias of bare git repo to back up dot files later 
+#
+eval "$(zoxide init --cmd cd zsh)"
