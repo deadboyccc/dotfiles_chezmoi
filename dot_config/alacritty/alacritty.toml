@@ -5,5 +5,12 @@ import = [
 	opacity=0.95
   # blur = true 
 [font]
-	size=14.5
-  
+	size=17.5
+ 
+#adding new
+[window.padding]
+  x = 4
+  y = 4
+
+[mouse]
+   hide_when_typing = true
