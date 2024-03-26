@@ -25,3 +25,7 @@ chezmoi managed to see what file u manage thro edit(by adding them prior)
 chezmoi edit --watch (while editor is nvim) file name into alias
 alias configedit='chezmoi edit --watch'
 
+
+[best dotfiles tool not changing it]
+THE END
+XD XD XD
