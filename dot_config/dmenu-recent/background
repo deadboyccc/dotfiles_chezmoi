@@ -98,3 +98,6 @@ st
 pacman
 clear
 qdbuscpp2xml
+foot
+wezterm
+rofi
