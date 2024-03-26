@@ -51,5 +51,6 @@ ex ()
 
 alias configedit='chezmoi edit --watch'
 
-
+alias cat='bat'
+alias ls='exa'
 #adding the alias of bare git repo to back up dot files later 
